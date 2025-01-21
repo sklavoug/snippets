@@ -1,0 +1,12 @@
+body {
+    height: 800px;
+}
+
+html * {
+    font-family: Calibri, sans-serif;
+}
+
+#map { 
+    height: 800px; 
+}
+
